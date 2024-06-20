@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398190770216",
+    "project_id": "homely-32e21",
+    "storage_bucket": "homely-32e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398190770216:android:812befdd1c5137756b9d1d",
+        "android_client_info": {
+          "package_name": "com.example.homely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3mXbTFA2dSGnXpno_5Wb7ZcUjYMGbyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
